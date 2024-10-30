@@ -1,9 +1,8 @@
-
 <h2 align="center">✨About Me✨</h2>
 
 ###
 
-<p align="left">Meu nome é Larissa. Estou em constante busca por aprimoramento, sempre estudando para me tornar uma desenvolvedora mais capacitada e agregar cada vez mais valor à empresa. Atualmente, curso Ciência da Computação na Estácio e participo de um programa de Residência TIC em software pelo Serratec. Tenho maior afinidade com o front-end, área na qual desejo me especializar e desenvolver minha carreira.</p>
+<p align="left">Meu nome é Larissa. Estou em constante busca por aprimoramento, sempre estudando para me tornar uma desenvolvedora mais capacitada e agregar cada vez mais valor à empresa. Atualmente, curso Ciência da Computação na Estácio e participo de um programa de Residência TIC em software pelo Serratec. Tenho maior afinidade com o front-end, área na qual desejo me especializar e desenvolver minha carreira.<br><br>🍃 Aperfeiçoando JavaScript, CSS e HTML.</p>
 
 ###
 
@@ -61,6 +60,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lari-blip/lari-blip/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
 ###
