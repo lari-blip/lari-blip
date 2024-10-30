@@ -1,8 +1,27 @@
-<h2 align="left">About Me</h2>
+
+<h2 align="center">✨About Me✨</h2>
 
 ###
 
-<p align="left">Serratec 2024.2 FullStack<br>-Estudante<br>Desenvolvendo habilidades em <br>-HTML5<br>- CSS3<br>-JavaScript <br>-SQL<br>-Java</p>
+<p align="left">Meu nome é Larissa. Estou em constante busca por aprimoramento, sempre estudando para me tornar uma desenvolvedora mais capacitada e agregar cada vez mais valor à empresa. Atualmente, curso Ciência da Computação na Estácio e participo de um programa de Residência TIC em software pelo Serratec. Tenho maior afinidade com o front-end, área na qual desejo me especializar e desenvolver minha carreira.</p>
+
+###
+
+<h4 align="left">✉️ Contatos</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/larissa-anuncia%C3%A7%C3%A3o-teodoro-16265825a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="31" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/teodoro_larii?igsh=MWJ4bmx1djZncGM3bQ==" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="31" alt="instagram logo"  />
+  </a>
+  <a href="anunciacaoteodor@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="31" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
@@ -11,21 +30,21 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="34" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="34" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react logo"  />
 </div>
 
 ###
@@ -42,20 +61,6 @@
 
 ###
 
-<h3 align="left">Meus contatos</h3>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/larissa-anuncia%C3%A7%C3%A3o-teodoro-16265825a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/teodoro_larii?igsh=MWJ4bmx1djZncGM3bQ==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="anunciacaoteodor@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+<img src="https://raw.githubusercontent.com/lari-blip/lari-blip/output/snake.svg" alt="Snake animation" />
 
 ###
