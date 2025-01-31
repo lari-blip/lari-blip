@@ -1,7 +1,7 @@
 <h2 align="center">✨About Me✨</h2>
 
 
-<p align="left">Meu nome é Larissa. Estou em constante busca por aprimoramento, sempre estudando para me tornar uma desenvolvedora mais capacitada e agregar cada vez mais valor à empresa. Atualmente, curso Ciência da Computação na Estácio e em 19 de dezembro de 2024 concluí o programa de Residência TIC 2024.2 em FullStack pelo Serratec. Tenho maior afinidade com o front-end, área na qual venho me especializando e desenvolvendo minha carreira.<br><br>🍃 Aperfeiçoando JavaScript, CSS HTML, React.</p>
+<p align="left">Meu nome é Larissa. Estou em constante busca por aprimoramento, sempre estudando para me tornar uma desenvolvedora mais capacitada e agregar cada vez mais valor à empresa. Atualmente, curso Ciência da Computação na Estácio e em 19 de dezembro de 2024 concluí o programa de Residência TIC 2024.2 em FullStack pelo Serratec. Tenho maior afinidade com o front-end, área na qual venho me especializando e desenvolvendo minha carreira.<br><br>🍃 Aperfeiçoando JavaScript, CSS, HTML e React.</p>
 
 
 <h4 align="left">✉️ Contatos</h4>
