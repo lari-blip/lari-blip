@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Larissa. Estou em constante busca por aprimoramento, sempre estudando para me tornar uma desenvolvedora mais capacitada e agregar cada vez mais valor à empresa. Atualmente, curso Ciência da Computação na Estácio e em 19 de dezembro de 2024 concluí o programa de Residência TIC 2024.2 em FullStack pelo Serratec. Tenho maior afinidade com o front-end, área na qual venho me especializando e desenvolvendo minha carreira.<br><br>🍃 Aperfeiçoando JavaScript, CSS e HTML.</p>
+<p align="left">Meu nome é Larissa. Estou em constante busca por aprimoramento, sempre estudando para me tornar uma desenvolvedora mais capacitada e agregar cada vez mais valor à empresa. Atualmente, curso Ciência da Computação na Estácio e em 19 de dezembro de 2024 concluí o programa de Residência TIC 2024.2 em FullStack pelo Serratec. Tenho maior afinidade com o front-end, área na qual venho me especializando e desenvolvendo minha carreira.<br><br>🍃 Aperfeiçoando JavaScript, CSS HTML, React.</p>
 ###
 
 <h4 align="left">✉️ Contatos</h4>
@@ -27,23 +27,17 @@
 
 ###
 
+<h2 align="left">Techs</h2>
+
+###
+
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="34" alt="visualstudio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="34" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="34" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="34" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="34" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="34" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="34" alt="react logo"  />
-</div>
 
 ###
 
